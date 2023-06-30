@@ -1,5 +1,5 @@
 <p align="center">
- 
+
 
 <img align="left" alt="JavaScript"   height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:27px;" /> 
  
@@ -13,6 +13,5 @@
 
 </p>
 
-  
-| <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"> <img  alt="ecabott's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ecabott?cardType=github&theme=github-dark" />  </a> | <a href="https://github.com/ecabott/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecabott&theme=onedark" alt="ecabott"/></a> |
-| ------------- | ------------- |
+| <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"> <img  alt="Diwaz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Diwaz?cardType=github&theme=github-dark" /> </a> | <a href="https://github.com/Diwaz/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Diwaz&theme=onedark" alt="Diwaz"/></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
